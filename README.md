@@ -7,4 +7,4 @@ project successfully working in windows
 user must download visual studio c/c++ redistributable 
 must install libraries in requirements.txt by using
 
-pip install -r requirements.txt
+pip install -r require.txt
