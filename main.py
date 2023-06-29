@@ -7,8 +7,8 @@ import time
 cap = cv2.VideoCapture(0)
 captured = 0
 
-face_images = ["steveJobs.jpg", "mom.jpg", "rata.jpg"]
-face_names = ["Name1", "Name2", "Name3"]
+face_images = ["image1.jpg", "image2.jpg", "image3.jpg"] # Add more images here
+face_names = ["Name1", "Name2", "Name3"] # Add more names here
 
 known_face_encodings = []
 known_face_names = []
